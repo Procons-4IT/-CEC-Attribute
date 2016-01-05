@@ -1,0 +1,9 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43529" Position="2" String="Customer Equipment Card Attribute" Type="1" UniqueID="Z_mnu_Bl002" Image="">
+		</Menu>
+
+	</action>
+	</Menus>
+</Application>
